@@ -1,0 +1,17 @@
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.deps.json
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.runtimeconfig.json
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.runtimeconfig.dev.json
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.dll
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.pdb
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.dll
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.pdb
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.csprojAssemblyReference.cache
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.csproj.CoreCompileInputs.cache
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.AssemblyInfoInputs.cache
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.AssemblyInfo.cs
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.csproj.CopyComplete
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.dll
+C:\Users\qualyteam_curso\curso\curso-net-core\tests\CursoNetCoreQualyteam.Tests\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.Tests.pdb

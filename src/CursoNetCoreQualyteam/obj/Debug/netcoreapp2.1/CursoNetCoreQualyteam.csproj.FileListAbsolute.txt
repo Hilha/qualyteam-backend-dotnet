@@ -1,0 +1,14 @@
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.deps.json
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.runtimeconfig.json
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.runtimeconfig.dev.json
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.dll
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\bin\Debug\netcoreapp2.1\CursoNetCoreQualyteam.pdb
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.csprojAssemblyReference.cache
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.csproj.CoreCompileInputs.cache
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.RazorAssemblyInfo.cache
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.RazorAssemblyInfo.cs
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.AssemblyInfoInputs.cache
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.AssemblyInfo.cs
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.RazorTargetAssemblyInfo.cache
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.dll
+C:\Users\qualyteam_curso\curso\curso-net-core\src\CursoNetCoreQualyteam\obj\Debug\netcoreapp2.1\CursoNetCoreQualyteam.pdb
